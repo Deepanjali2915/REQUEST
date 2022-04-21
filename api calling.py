@@ -75,19 +75,6 @@
 
 
 
-# # a="qwer"
-# # print(a)
-# # a=["n","d"]
-# # b=int(input("enter the number: "))
-# # i=1
-# # while i<=b:
-# #     j=0
-# #     while j<len(a):
-# #         print(a[j],end="")
-# #         print(i,end=" ")
-# #         j+=1
-# #     i+=1
-
 
 
 
